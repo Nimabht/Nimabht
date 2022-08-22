@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nima Beheshtaein
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - Instgram: https://www.instagram.com/nimabeheshtaein/
