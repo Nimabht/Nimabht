@@ -1,6 +1,6 @@
-<div style="text-align:center">
-    <img src="https://www.uplooder.net/img/image/39/2b4484ad823903dc74f0b7bea3251de5/ezgif.com-crop.gif" alt="MasterHead" style="display:block; margin:auto;">
-</div>
+<p align="center">
+    <img src="https://www.uplooder.net/img/image/39/2b4484ad823903dc74f0b7bea3251de5/ezgif.com-crop.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm Nima Beheshtaein</h1>
 <h3 align="center">Love to learn and make new things</h3>
